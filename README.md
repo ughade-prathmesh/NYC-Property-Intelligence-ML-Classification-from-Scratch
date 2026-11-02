@@ -64,5 +64,3 @@ API docs are available at `http://127.0.0.1:8000/docs`.
 ## Author
 
 **Prathmesh Ughade** · [@ughade-prathmesh](https://github.com/ughade-prathmesh)
-
-Released under the [MIT License](LICENSE).
